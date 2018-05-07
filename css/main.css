@@ -1,0 +1,159 @@
+
+.product-page .button{
+	background-color:#f80000;
+}
+
+.top-bar{
+	background-color:#191919;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button) {
+	background-color:#191919;
+	font-family: 'Karla', sans-serif;
+
+
+}
+
+.top-bar-section li.active:not(.has-form) a:not(.button){
+	background-color:#f80000;
+}
+
+.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+	background-color:#f80000;
+}
+
+
+.redtext {
+	color:#f80000;
+}
+
+.logo {
+	width: 30%;
+}
+
+body {
+	font-family: 'Karla', sans-serif;
+	font-weight:400;
+	background-color:#e8e8e8;
+
+}
+
+h2 {
+	color: #191919;
+	font-size:1.8rem;
+	font-family: 'Tajawal', sans-serif;
+	font-weight:700;
+	text-transform:uppercase;
+	letter-spacing:.6rem;
+
+}
+
+.social h1{
+	color:white;
+}
+
+h1 {
+	color: #191919;
+	font-size:1.8rem;
+	font-family: 'Tajawal', sans-serif;
+	font-weight:700;
+	text-transform:uppercase;
+	letter-spacing:.4rem;
+}
+
+.product-price {
+	font-family: 'Karla', sans-serif;
+	font-size:1.3rem;
+	color:#444444;
+}
+
+.product-image {
+	padding-bottom:2rem;
+}
+
+
+.panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6, .panel p, .panel li, .panel dl{
+	font-family: 'Karla', sans-serif;
+	font-weight:700;
+	padding-top: 10px;
+	color:black;
+	font-size:90%;	
+}
+
+.panel {
+	background-color:white;
+}
+
+/* FOOTER */
+
+footer {
+	background-color:black;
+	padding:2rem 0;
+	color:white;
+}
+
+footer li {
+	list-style:none;
+	font-size:70%;
+}
+
+footer .logo {
+	width: 80%;
+}
+
+.sociallinks li{
+	font-size:100%;
+}
+
+footer p{
+	font-size: 70%
+}
+
+footer a {
+	color:white;
+}
+
+footer a:hover {
+	color:red;
+}
+
+aside {
+	padding-bottom: 3rem;
+}
+
+aside{
+	background-color:#191919;
+}
+
+aside h2 {
+	color: white;
+	font-size:1.8rem;
+	font-family: 'Tajawal', sans-serif;
+	font-weight:700;
+	text-transform:uppercase;
+	letter-spacing:.4rem;
+	padding: 1rem 0;
+}
+
+.hero{
+	padding:2rem 0;
+	background-color:#191919;
+}
+
+.about{
+	padding:5rem 0;
+}
+
+.social {
+	padding: 5rem 0;
+	background-color:#191919;
+}
+
+button.disabled, button[disabled], .button.disabled, .button[disabled]{
+	background-color:#f80000;
+}
+
+button.disabled, button[disabled], .button.disabled, .button[disabled]:hover{
+	background-color:#f80000;
+}
+

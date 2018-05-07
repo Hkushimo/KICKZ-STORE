@@ -51,14 +51,26 @@ h2 {
 .social h1{
 	color:white;
 }
+.breadcrumbs {
+	background-color:black;
+	border-color:black;
+}
+
+.breadcrumbs a{
+	color:white;
+}
 
 h1 {
-	color: #191919;
+	color: white;
 	font-size:1.8rem;
 	font-family: 'Tajawal', sans-serif;
 	font-weight:700;
 	text-transform:uppercase;
 	letter-spacing:.4rem;
+}
+
+p {
+	color: white;
 }
 
 .product-price {

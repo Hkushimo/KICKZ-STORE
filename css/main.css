@@ -69,14 +69,19 @@ h1 {
 	letter-spacing:.4rem;
 }
 
+main.product-grid h1{
+	padding-bottom:2rem;
+}
+
 p {
-	color: white;
+	color: #d3d3d3;
 }
 
 .product-price {
 	font-family: 'Karla', sans-serif;
 	font-size:1.3rem;
-	color:#444444;
+	color:#d3d3d3;
+	letter-spacing:0;
 }
 
 .product-image {
@@ -169,3 +174,21 @@ button.disabled, button[disabled], .button.disabled, .button[disabled]:hover{
 	background-color:#f80000;
 }
 
+.message{
+	text-align:center;
+	font-size:45px;
+}
+
+button, .button{
+	background-color:#f80000;
+
+}
+
+button, .button:hover{
+	background-color:#f80000;
+
+}
+
+button.tiny, .button.tiny:hover{
+	background-color:#f80000;
+}

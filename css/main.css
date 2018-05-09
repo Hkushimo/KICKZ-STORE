@@ -28,7 +28,7 @@
 }
 
 .logo {
-	width: 30%;
+	height: 40px;
 }
 
 body {
@@ -159,6 +159,34 @@ aside h2 {
 
 .about{
 	padding:5rem 0;
+}
+
+.contact{
+	padding:5rem 0;
+	list-style:none;
+}
+
+.contact li{
+	list-style:none;
+}
+
+.contact ul{
+	margin:0;
+}
+
+.contact ul h1{
+	color:#d3d3d3;
+	font-size:16px;
+}
+
+
+.contact li a{
+	 color:white;
+}
+
+.contact li a:hover{
+	 color:white;
+	 color:#f80000
 }
 
 .social {
